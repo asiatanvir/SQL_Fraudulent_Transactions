@@ -44,7 +44,7 @@ Through these tasks a report has been prepared to help CEO of the firm to analyz
 
 #### What are the top 5 merchants prone to being hacked using small transactions?
 See Query # 7 
-![top_5_merchant](top_5_merchants)
+![top_5_merchant](top_5_merchants.png)
 
 
 ## Data Analysis (Part2)
